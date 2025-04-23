@@ -2,7 +2,7 @@
 
 Netflix-style movie recommender built with Streamlit, using TF-IDF + Cosine Similarity. Recommends similar movies based on content and shows top trending movies!
  
-![Project Image](https://raw.githubusercontent.com/Rushi430/hybrid-movie-recommender/main/assets/recommender.png)
+![Project Image](https://raw.githubusercontent.com/Rushi430/hybrid-movie-recommender/main/recommender.png)
 > UI preview of the hybrid movie recommender system built with Streamlit.
 
 
